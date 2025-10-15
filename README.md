@@ -1,4 +1,4 @@
-# 🤖 AI Sentiment Analyzer (Web App)
+# 🤖 AI Sentiment Analyzer 
 
 Analyze text sentiment using AI (Positive, Negative, Neutral). Built with Streamlit & Hugging Face.
 
@@ -8,5 +8,6 @@ Analyze text sentiment using AI (Positive, Negative, Neutral). Built with Stream
 2. Install dependencies: pip install -r requirements.txt
 3. Run the app: streamlit run app.py
 4. Open browser at: http://localhost:8501
+
 
 
