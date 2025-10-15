@@ -9,5 +9,3 @@ Analyze text sentiment using AI (Positive, Negative, Neutral). Built with Stream
 3. Run the app:streamlit run app.py
 4. Open browser at:http://localhost:8501
 
-## Deploy Online
-Push to GitHub and deploy via Streamlit Cloud: [https://share.streamlit.io](https://share.streamlit.io)
